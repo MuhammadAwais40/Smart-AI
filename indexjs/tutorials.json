@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Learn HTML & CSS",
+      "description": "Basic tutorial to get started with HTML and CSS.",
+      "link": "https://example.com/html-css-tutorial"
+    },
+    {
+      "title": "JavaScript for Beginners",
+      "description": "A comprehensive guide to learning JavaScript.",
+      "link": "https://example.com/js-tutorial"
+    },
+    {
+      "title": "Python Flask Tutorial",
+      "description": "Learn Flask for web development with Python.",
+      "link": "https://example.com/flask-tutorial"
+    },
+    {
+      "title": "React.js Introduction",
+      "description": "An introductory guide to building web apps with React.js.",
+      "link": "https://example.com/react-tutorial"
+    },
+    {
+      "title": "Node.js for Backend Development",
+      "description": "Learn how to build a server-side app with Node.js.",
+      "link": "https://example.com/nodejs-tutorial"
+    }
+  ]
+  
